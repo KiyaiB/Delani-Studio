@@ -6,3 +6,4 @@ DELANI-STUDIO
 
 DESCRIPTION
 
+Delani Studio is a website that shows the clients what the company does and services they can get.
