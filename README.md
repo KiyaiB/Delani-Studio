@@ -12,3 +12,7 @@ SETUP/INSTALLATION REQUIREMENTS
 
 -Clone the repo
        
+        git@github.com:KiyaiB/Delani-Studio.git
+        
+        
+  
